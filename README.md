@@ -1,2 +1,0 @@
-# spinmama
-spinmama site
